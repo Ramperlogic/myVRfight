@@ -13,7 +13,3 @@
   * 创建了README.md；
   * 创建了1-游戏概述.txt。
   
-***
-欢迎有兴趣的伙伴加入
-Create by: Raperlogic  
-Email: 1509319438@qq.com
